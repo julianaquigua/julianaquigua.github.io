@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
-title: Juliana's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Juliana Quigua Chinchilla
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  
