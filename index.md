@@ -1,6 +1,3 @@
-
-layout: default
-
 # Juliana Quigua Chinchilla
 
 I am currently a quantitative research assistant at [Young Lives](https://www.younglives.org.uk), University of Oxford. 
