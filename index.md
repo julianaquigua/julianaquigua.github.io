@@ -30,6 +30,6 @@ In spanish: "Género y percepciones sobre la migración: un espejo de nuestros f
 
 ## Media
 
-Blog post in Nada es gratis: [Preferencia por un sistema más redistributivo en medio de un alta (percepción de) corrupción](https://nadaesgratis.es/julian-messina/preferencia-por-un-sistema-mas-redistributivo-en-medio-de-un-alta-percepcion-de-corrupcion)
+Blog post in Nada es gratis (December 2023) : [Preferencia por un sistema más redistributivo en medio de un alta (percepción de) corrupción](https://nadaesgratis.es/julian-messina/preferencia-por-un-sistema-mas-redistributivo-en-medio-de-un-alta-percepcion-de-corrupcion)
 
 
