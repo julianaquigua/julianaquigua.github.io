@@ -6,7 +6,7 @@ I am currently a quantitative research assistant at [Young Lives](https://www.yo
 Previously a research fellow at the Inter-American Development Bank. 
 I hold a B.A. and M.A. in Economics from Universidad de los Andes (Colombia).
 
-### Download my CV [here](./CV_Quigua.pdf)
+### [Download my CV here](./CV_Quigua.pdf)
 
 
 ## Working papers
