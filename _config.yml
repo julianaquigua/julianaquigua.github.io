@@ -1,10 +1,10 @@
-title: Juliana Quigua Chinchilla
-url: 'http://julianaquigua.com'
-logo: ./IMG_3561.jpeg
-theme: jekyll-theme-minimal
-description: [Email]('julianaquigua@hotmail.com')
-Linkedin: https://www.linkedin.com/in/juliana-quigua-chinchilla-b9567918a/ 
-Twitter: https://twitter.com/juliana_quigua1?lang=es
+title: "Juliana Quigua Chinchilla"
+url: "http://julianaquigua.com"
+logo: "./IMG_3561.jpeg"
+theme: "jekyll-theme-minimal"
+description: "<a href='mailto:julianaquigua@hotmail.com'>Email</a>"
+linkedin: "<a href='https://www.linkedin.com/in/juliana-quigua-chinchilla-b9567918a/' target='_blank'>LinkedIn</a>"
+twitter: "<a href='https://twitter.com/juliana_quigua1?lang=es' target='_blank'>Twitter</a>"
 
 auto_dark_mode: true
 
