@@ -3,7 +3,7 @@
 # About me
 
 I am currently a quantitative research assistant at [Young Lives](https://www.younglives.org.uk), University of Oxford.
-Previously, I was a research fellow at the Inter-American Development Bank. I hold a B.A. and M.A. in Economics from Universidad de los Andes (Colombia). My main research interests are migration, poverty and inequality in developing countries.
+Previously, I was a research fellow at the Inter-American Development Bank. I hold a B.A. and M.A. in Economics from La Universidad de los Andes (Colombia). My main research interests are migration, poverty and inequality in developing countries.
 
 ### [Download my CV here](./CV_Quigua.pdf)
 
