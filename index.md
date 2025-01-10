@@ -24,7 +24,7 @@ Previous version: [IDB Working Paper Series #01268](https://publications.iadb.or
 
 ### Master's thesis
 
-In English: "Gender and perceptions of migration: A reflection of our predisposing factors" (./Writing_Sample.pdf)
+In English: ["Gender and perceptions of migration: A reflection of our predisposing factors"](./Writing_Sample.pdf)
 
 In Spanish: "Género y percepciones sobre la migración: un espejo de nuestros factores predisposicionales"
 [Documento CEDE No. 20758](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4442065)
